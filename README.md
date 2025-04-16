@@ -3,6 +3,10 @@ ARHAM JAIN-24BAI10583,
  Arnav Garg-24BAI10753,
  Shourya Singh-24BAI10080,
  Atharva Pratap Singh-24BAI10879,
+
+
+
+
 📈 Stock Market Analyst
 A simple yet powerful command-line based Stock Portfolio Management System built in C++. This application allows users to manage their stock holdings by adding new stocks, updating prices, viewing the portfolio, and calculating the total value of their investments.
 
